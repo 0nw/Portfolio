@@ -1,3 +1,1 @@
-# Portfolio
-`putting this together gives me brain damage`
-|your mom|
+`making this gave me brain damage`
