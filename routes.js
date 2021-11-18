@@ -4,6 +4,11 @@ var app = express()
 app.get('/', function (req, res) {
   res.sendFile("./views/index.html")
 })
-
+app.get('/contact', function (req, res) {
+  res.sendFile("./views/index.html")
+})
+app.get('/projects', function (req, res) {
+  res.sendFile("./views/index.html")
+})
 
 module.exports = app;
